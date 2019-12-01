@@ -1,0 +1,13 @@
+C:\Users\tmthy\Exercism\csharp\acronym\obj\Debug\netcoreapp2.1\Acronym.csprojAssemblyReference.cache
+C:\Users\tmthy\Exercism\csharp\acronym\obj\Debug\netcoreapp2.1\Acronym.AssemblyInfoInputs.cache
+C:\Users\tmthy\Exercism\csharp\acronym\obj\Debug\netcoreapp2.1\Acronym.AssemblyInfo.cs
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\Acronym.deps.json
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\Acronym.runtimeconfig.json
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\Acronym.runtimeconfig.dev.json
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\Acronym.dll
+C:\Users\tmthy\Exercism\csharp\acronym\bin\Debug\netcoreapp2.1\Acronym.pdb
+C:\Users\tmthy\Exercism\csharp\acronym\obj\Debug\netcoreapp2.1\Acronym.dll
+C:\Users\tmthy\Exercism\csharp\acronym\obj\Debug\netcoreapp2.1\Acronym.pdb
